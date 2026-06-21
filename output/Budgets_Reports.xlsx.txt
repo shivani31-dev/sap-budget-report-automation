@@ -1,0 +1,5 @@
+| WBS    | Description     | Budget |
+| ------ | --------------- | ------ |
+| WBS-01 | Civil Work      | 10000  |
+| WBS-02 | Electrical Work | 15000  |
+| WBS-03 | Mechanical Work | 20000  |

@@ -1,0 +1,16 @@
+SAP DAT File
+      │
+      ▼
+Data Cleaning
+      │
+      ▼
+Pandas Processing
+      │
+      ▼
+WBS Classification
+      │
+      ▼
+Excel Formatting
+      │
+      ▼
+Budget Report

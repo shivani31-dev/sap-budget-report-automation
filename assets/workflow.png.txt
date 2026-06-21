@@ -1,0 +1,19 @@
+Select DAT File
+      │
+      ▼
+Clean Data
+      │
+      ▼
+Transform Data
+      │
+      ▼
+Map WBS Names
+      │
+      ▼
+Generate Excel
+      │
+      ▼
+Format Report
+      │
+      ▼
+Save Report

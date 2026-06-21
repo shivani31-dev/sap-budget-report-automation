@@ -1,0 +1,5 @@
+| WBS    | Name            |
+| ------ | --------------- |
+| WBS-01 | Civil Work      |
+| WBS-02 | Electrical Work |
+| WBS-03 | Mechanical Work |

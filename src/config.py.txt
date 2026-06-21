@@ -1,0 +1,9 @@
+MASTER_FILE = "WBS_NAMES.xlsx"
+
+TEMP_FILE = "temp.dat"
+
+FONT_NAME = "Bookman Old Style"
+
+FONT_SIZE = 12
+
+FREEZE_CELL = "E3"

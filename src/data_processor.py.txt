@@ -1,0 +1,21 @@
+Read DAT File
+
+Clean Data
+
+Transform Data
+
+Split WBS
+
+Map WBS Names
+
+Generate Excel
+
+
+
+functions > read_data()
+
+clean_data()
+
+transform_data()
+
+process_wbs()

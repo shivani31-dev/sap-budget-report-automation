@@ -1,0 +1,9 @@
+Start Project
+
+Select File
+
+Process Data
+
+Generate Excel
+
+Apply Formatting

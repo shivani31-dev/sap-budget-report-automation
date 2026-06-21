@@ -1,0 +1,27 @@
+Freeze Panes
+
+Currency Formatting
+
+Auto Column Width
+
+Header Color
+
+Alternating Rows
+
+Summary WBS Highlight
+
+
+function  >
+           apply_freeze_panes()
+
+apply_font_style()
+
+apply_currency_formatting()
+
+adjust_column_width()
+
+apply_header_format()
+
+highlight_rows_by_value()
+
+save()
